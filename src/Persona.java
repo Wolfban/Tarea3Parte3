@@ -1,5 +1,6 @@
 /**
  * @author Esteban Barrera
+ *Debe crear un ejemplo que permite el uso de una interfase
  */
 public class Persona implements Fursuiter{
     public Persona(){}
