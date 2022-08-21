@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a31ff93d-7cfc-4cc6-a284-dab8e1cdd287" name="Changes" comment="Se agrega la clase Interfase en el programa">
-      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fursuiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fursuiter.java" afterDir="false" />
+    <list default="true" id="a31ff93d-7cfc-4cc6-a284-dab8e1cdd287" name="Changes" comment="Se agrega el codigo de las acciones de la persona">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661118932976</updated>
-      <workItem from="1661118934443" duration="3690000" />
+      <workItem from="1661118934443" duration="3995000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1661122875019</created>
@@ -88,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661122935700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se agrega la clase persona y el main del programa">
+      <created>1661124036754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661124036754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se agrega el codigo de las acciones de la persona">
+      <created>1661124246903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661124246903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Se agrega la clase Interfase en el programa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la clase Interfase en el programa" />
+    <MESSAGE value="Se agrega la clase persona y el main del programa" />
+    <MESSAGE value="Se agrega el codigo de las acciones de la persona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega el codigo de las acciones de la persona" />
   </component>
 </project>
